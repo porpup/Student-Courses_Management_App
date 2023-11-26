@@ -36,6 +36,7 @@ The system is designed to be intuitive and mirrors real-world college database m
 - **Handle Grades**: Assign and manage final grades for student enrollments.
 
 
-![Picture1](https://github.com/porpup/Student_Courses_Management_App/assets/3512401/49a0c33b-9b56-4511-b403-549069006dfc)
-
-![Picture2](https://github.com/porpup/Student_Courses_Management_App/assets/3512401/015cd969-3595-494d-882d-5eee963962a9)
+<p float="left">
+  <img src="https://github.com/porpup/Student_Courses_Management_App/assets/3512401/49a0c33b-9b56-4511-b403-549069006dfc" width="500" />
+  <img src="https://github.com/porpup/Student_Courses_Management_App/assets/3512401/015cd969-3595-494d-882d-5eee963962a9" width="500" /> 
+</p>
