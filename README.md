@@ -35,10 +35,6 @@ The system is designed to be intuitive and mirrors real-world college database m
 - **Manage Student Information**: Enroll students in programs, update their details, and manage their course enrollments.
 - **Handle Grades**: Assign and manage final grades for student enrollments.
 
-## Contributions
-
-While this project is primarily for educational purposes, contributions for bug fixes and improvements are welcome. Please read [CONTRIBUTION.md](CONTRIBUTION.md) for details on our code of conduct, and the process for submitting pull requests.
-
 
 ![Picture1](https://github.com/porpup/Student_Courses_Management_App/assets/3512401/49a0c33b-9b56-4511-b403-549069006dfc)
 
